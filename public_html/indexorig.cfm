@@ -9,7 +9,7 @@
 		<meta name="viewport" content="width=device-width">
 
 		<title>Home | Fortune Creations</title>
-
+		
 		<link href='https://fonts.googleapis.com/css?family=Dosis:400,500,600,700,800,300,200' rel='stylesheet' type='text/css'>
 		<link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
 		<link href='http://fonts.googleapis.com/css?family=Lato:100,200,300,400,700,900' rel='stylesheet' type='text/css'>
@@ -26,28 +26,26 @@
 				<div class="container">
 					<div class="row">
 						<div class="header_logo col-xs-12 col-sm-5 col-md-7">
-							<a href="index.cfm"><img src="images/logo4.png" alt="Logo"></a>
+							<a href="index.html"><img src="images/logo.png" alt="Logo"></a>
 						</div>
-						<div class="col-xs-12 col-sm-7 col-md-5">
+						<div class="col-xs-12 col-sm-4 col-md-3">
 							<div class="header-address">
 								<span class="address_icon image-icons">
 									<img src="images/address.png" alt="address icon">
 								</span>
-								<span class="normal-title">100 Fourth Street</span>
-								<span class="normal-title">Winona Lake, IN </span>
+								<span class="normal-title">123 QuickSale Street</span>
+								<span class="bold-title">Chicago, IL 60606</span>
 							</div>
 						</div>
-						<!---
 						<div class="col-xs-12 col-sm-3 col-md-2">
 							<div class="header-call-us-now">
 								<span class="image-icons">
 									<img src="images/call.png" alt="call icon">
 								</span>
 								<span class="normal-title">Call us now</span>
-								<span class="bold-title">574-527-6061</span>
+								<span class="bold-title">215-123-4567</span>
 							</div>
 						</div>
-						--->
 					</div>
 				</div>
 			</div>
@@ -70,7 +68,7 @@
 						</div>
 						<div class="item">
 							<img src="images/slider3.jpg" alt="Slider3">
-						</div>
+						</div>					
 					</div>
 				</div>
 				<div class="main-menu">
@@ -87,28 +85,50 @@
 							<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 								<ul class="nav navbar-nav nav_link">
 									<li class="active">
-										<a href="index.cfm">Home</a>
+										<a href="index.html" class="drop_down">Home</a>
+										<ul class="sub-menu">
+											<li><a href="home_page_2.html">Home Page 2</a></li>
+										</ul>	
 									</li>
 									<li>
-									        	<a href="#basics">Basics</a>
-									</li>
+							        	<a href="#" class="drop_down">Pages</a>
+						          		<ul class="sub-menu">
+							           		<li><a href="about_us.html">About Us</a></li>
+							           		<li><a href="blog.html">Blog</a></li>
+								           	<li><a href="blog_post.html">Blog Detail</a></li>
+								           	<li><a href="tour.html">Tour</a></li>
+								           	<li><a href="gallery_2_columns.html">Gallery 2 Columns</a></li>
+								           	<li><a href="gallery_3_columns.html">Gallery 3 Columns</a></li>
+								           	<li><a href="shortcodes.html">Shortcodes</a></li>
+								           	<li><a href="page_with_left_sidebar.html">page with left sidebar</a></li>
+								           	<li><a href="page_with_right_sidebar.html">page with right sidebar</a></li>
+								           	<li><a href="faq.html">FAQ</a></li>
+								           	<li><a href="contact.html">Contact us</a></li>
+							          	</ul>
+							        </li>
 									<li>
-										<a href="#gallery">Gallery</a>
+										<a href="#" class="drop_down">Gallery</a>
+										<ul class="sub-menu">
+											<li><a href="gallery_2_columns.html">Gallery 2 Columns</a></li>
+							           		<li><a href="gallery_3_columns.html">Gallery 3 Columns</a></li>
+								        </ul>
 									</li>
-									<li><a href="mailto:tomavey@fgbc.org">Contact us</a></li>
+									<li><a href="tour.html">Tour</a></li>
+									<li><a href="blog.html">Blog</a></li>
+									<li><a href="contact.html">Contact us</a></li>
 									<li><a href="contact.html" class="schedule-visit-btn">SCHEDULE A VISIT</a></li>
 								</ul>
 							</div>
 						</div>
 					</nav>
 				</div>
-
+				
 				<div class="schedule-visit-form-container">
 					<div class="container">
 						<div class="schedule-visit-form-inner">
 							<span class="first-line">SCHEDULE A VISIT TO</span>
 							<span class="second-line">YOUR DREAM HOUSE</span>
-							<form class="shedule-visit" name="contact_form" method="post" action="functions.php" id="agnet-contact-form">
+							<form class="shedule-visit" name="contact_form" method="post" action="functions.php" id="agnet-contact-form">						
 								<input type="text" name="full_name" placeholder="Full Name" required/>
 								<input type="tel" name="phone_number" placeholder="Phone Numebr" required/>
 								<input type="email" name="email_address" placeholder="Email" required/>
@@ -121,12 +141,12 @@
 				</div>
 			</div>
 		</header>
-		<div class="about-property-outer" name="basics">
+		<div class="about-property-outer">
 			<div class="container">
 				<div class="row">
 					<div class="about-property-info-outer col-xs-12 col-sm-5 col-md-4">
 						<h2>Sabestian VILLA</h2>
-						<span class="price">$340,000</span>
+						<span class="price">$2,689,500</span>
 						<span class="property-status">ON SALE</span>
 					</div>
 					<div class="col-xs-12 col-sm-7 col-md-8">
@@ -135,28 +155,28 @@
 								<img src="images/svg/house_window.svg" alt="house svg" class="svgImages" />
 							</div>
 							<span class="property-attributes-title">year built</span>
-							<span class="property-attributes-value">1909</span>
+							<span class="property-attributes-value">2015</span>
 						</div>
 						<div class="property-attributes">
 							<div class="property-icons">
 								<img src="images/svg/floor_plan.svg" alt="floor plan svg" class="svgImages" />
 							</div>
 							<span class="property-attributes-title">in sq.ft</span>
-							<span class="property-attributes-value">4635</span>
+							<span class="property-attributes-value">2790</span>
 						</div>
 						<div class="property-attributes">
 							<div class="property-icons">
 								<img src="images/svg/bed.svg" alt="bed svg" class="svgImages" />
 							</div>
 							<span class="property-attributes-title">bedrooms</span>
-							<span class="property-attributes-value">7</span>
+							<span class="property-attributes-value">3</span>
 						</div>
 						<div class="property-attributes">
 							<div class="property-icons">
 								<img src="images/svg/bath.svg" alt="bath svg" class="svgImages" />
 							</div>
 							<span class="property-attributes-title">bathrooms</span>
-							<span class="property-attributes-value">4 1/2</span>
+							<span class="property-attributes-value">3</span>
 						</div>
 						<div class="property-attributes">
 							<div class="property-icons">
@@ -176,7 +196,7 @@
 						<h3 class="section-title">Property Description</h3>
 						<p class="sub-title">Lorem ipsum dolor sit amet, consectetur adipiscing elit. ligula convallis, vel tincidunt ipsum posuere</p>
 						<p>
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempor arcu non ligula convallis, vel tincidunt ipsum posuere. Fusce sodales lacus ut pellentes sollicitudin. Duis iaculis, arcu ut hendrerit pharetra, elit augue pulvinar magna, a consectetur eros quam eu orci.
+							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempor arcu non ligula convallis, vel tincidunt ipsum posuere. Fusce sodales lacus ut pellentes sollicitudin. Duis iaculis, arcu ut hendrerit pharetra, elit augue pulvinar magna, a consectetur eros quam eu orci. 
 						</p>
 						<a href="#" class="view-on-map">View On Map</a>
 						<a href="#" class="schedule-visit">Schedule Visit</a>
@@ -184,7 +204,7 @@
 					<div class="col-xs-12 col-sm-6 col-md-6">
 						<div class="property-amenities">
 							<div class="col-xs-12 col-sm-6 col-md-6">
-								<div class="proeprty-amenities-left">
+								<div class="proeprty-amenities-left"> 
 									<img src="images/amenities.jpg" alt="Amenities" />
 								</div>
 							</div>
@@ -564,7 +584,7 @@
 							<ul>
 								<li><img src="images/email-me.png" alt="email me"></li>
 								<li><p>Email me on</p><p><b>doe@yoursite.com</b></p></li>
-							</ul>
+							</ul>						
 						</div>
 						<div class="agent_contact_form">
 							<div class="alert-message"></div>
@@ -573,11 +593,11 @@
 									<input type="text" name="full_name" placeholder="Name" required>
 									<input type="text" name="phone_number" placeholder="Phone" required>
 									<input type="text" name="email_address" placeholder="Email" required>
-								</div>
+								</div>						
 								<div class="col-xs-6 col-sm-6 col-md-6">
 									<textarea name="message" placeholder="Message" required></textarea>
 									<input type="submit" class="agent_submit" name="submit" value="submit now">
-								</div>
+								</div>						
 							</form>
 						</div>
 					</div>
@@ -613,10 +633,10 @@
 					</div>
 				</div>
 			</div>
-		</section>
+		</section>		
 
 		<script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
-		<script type="text/javascript" src="js/bootstrap.min.js"></script>
+		<script type="text/javascript" src="js/bootstrap.min.js"></script>				
 		<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;signed_in=true&amp;libraries=places"></script>
 		<script src="js/googlemapinsert.js"></script>
 		<script src="js/neary-by-place.js"></script>

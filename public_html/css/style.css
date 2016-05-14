@@ -128,8 +128,7 @@ h2 {
 	z-index: 16;
 }
 .main-menu .navbar.navbar-default{
-	background:rgba(0, 0, 0, 0) -moz-linear-gradient(0deg, #1fc055 75%, rgba(0,0,0,0) 25%) repeat scroll 0 0;
-	//background-color: #1fc055;
+	background-color: #1fc055;
 	border: none;
 	border-radius: none;
 	color: #b6ffce;
@@ -160,7 +159,7 @@ h2 {
 	float: right;
 }
 @media screen and (min-width: 768px) {
-	.main-menu #bs-example-navbar-collapse-1, 
+	.main-menu #bs-example-navbar-collapse-1,
 	.main-menu .navbar-default .navbar-nav > li:first-child > a {
 		padding-left: 0px;
 	}
@@ -169,9 +168,9 @@ h2 {
 	margin-left: 10px;
 }
 .main-menu .navbar-default .navbar-nav > .active > a,
-.main-menu .navbar-default .navbar-nav > .active > a:focus, 
+.main-menu .navbar-default .navbar-nav > .active > a:focus,
 .main-menu .navbar-default .navbar-nav > .active > a:hover,
-.main-menu .navbar-default .navbar-nav > li > a:focus, 
+.main-menu .navbar-default .navbar-nav > li > a:focus,
 .main-menu .navbar-default .navbar-nav > li > a:hover  {
 	color: #ffffff;
 	background-color: #1fc055;
@@ -210,7 +209,7 @@ h2 {
 	min-height: 10px;
 	width: 100%;
 	position: absolute;
-	top: 65px;	
+	top: 65px;
 }
 .schedule-visit-form-inner {
 	width: 370px;
@@ -330,13 +329,13 @@ h2 {
 	}
 }
 @media screen and (max-width:991px) {
-	.schedule-visit-form-inner::before, 
+	.schedule-visit-form-inner::before,
 	.schedule-visit-form-inner::after {
 		display: none;
 	}
 	.schedule-visit-form-container {
 		position: relative;
-		top: 0;		
+		top: 0;
 	}
 	.schedule-visit-form-inner {
 		position: relative;
@@ -348,12 +347,12 @@ h2 {
 	.main-menu .navbar.navbar-default{
 		background: rgba(0, 0, 0, 0);
 	}
-	
+
 	.main-menu .navbar-default .navbar-nav > li:first-child > a {
 		padding-left: -15px;
 	}
 	.main-menu .nav.navbar-nav {
-		margin: 0;	
+		margin: 0;
 	}
 	.main-menu .nav.navbar-nav li:last-child {
 		float: none;
@@ -422,7 +421,7 @@ h2 {
 .nav.navbar-nav.nav_link > li:hover .sub-menu {
 	transform : scale(1,1);
 	-moz-transform : scale(1,1);
-	-webkit-transform : scale(1,1);	
+	-webkit-transform : scale(1,1);
 }
 .sub-menu > li > a:hover {
 	color: #fff !important;
@@ -539,7 +538,7 @@ h2 {
 	height: 34px;
 	margin: auto;
 	line-height: 34px;
-} 
+}
 .property-attributes .svgImages {
 	height: auto;
 	width: 100%;
@@ -792,19 +791,19 @@ h2 {
 	font-family: 'Lato';
 	font-size: 16px;
 	color: #a794dc;
-	line-height: 1.8;	
+	line-height: 1.8;
 }
 .room_dimensions .room_dimensions_detail ul{
 	width: 100%;
 	float: left;
 	margin-top: 50px;
-	padding: 0;	
+	padding: 0;
 }
 .room_dimensions .room_dimensions_detail ul li{
 	float: left;
 	list-style: none;
 	margin-right: 40px;
-	margin-bottom: 65px;	
+	margin-bottom: 65px;
 }
 .room_dimensions .room_dimensions_detail ul li a{
 	background: #ffffff none repeat scroll 0 0;
@@ -814,7 +813,7 @@ h2 {
     z-index: 999;
 }
 .room_dimensions .room_dimensions_detail ul li a:hover{
-	background: #1fc055;	
+	background: #1fc055;
 }
 .room_dimensions .room_dimensions_detail ul li a:hover svg{
 	fill: #ffffff;
@@ -861,7 +860,7 @@ h2 {
 }
 @media screen and (max-width: 592px ){
 	.room_dimensions .room_dimensions_detail{
-		height: 500px; 
+		height: 500px;
 	}
 }
 @media screen and (max-width: 460px ){
@@ -869,7 +868,7 @@ h2 {
 		margin-right: 20px;
 	}
 	.room_dimensions .room_dimensions_detail{
-		height: 600px; 
+		height: 600px;
 	}
 	.room_dimensions .room_dimensions_detail{
 		padding-left: 40px !important;
@@ -877,13 +876,13 @@ h2 {
 }
 @media screen and (max-width: 360px ){
 	.room_dimensions .room_dimensions_detail{
-		height: 700px; 
+		height: 700px;
 	}
 }
 @media screen and (max-width: 293px ){
 	.room_dimensions .room_dimensions_detail{
-		height: 900px; 
-	}	
+		height: 900px;
+	}
 }
 /*
 	Photo Gallery
@@ -901,13 +900,13 @@ h2 {
 	position: relative;
 	list-style: none;
 	border: 1px solid #ffffff;
-	padding: 0;	
+	padding: 0;
 }
 .photo_gallery .gallery_image img{
 	width: 100%;
 	height: auto
 }
-.photo_gallery .gallery_image .image_description{	
+.photo_gallery .gallery_image .image_description{
 	background: rgba(28, 173, 77, 0.9) none repeat scroll 0 0;
 	height: 100%;
 	position: absolute;
@@ -1003,19 +1002,19 @@ h2 {
 	float: left;
 	padding: 135px 0;
 }
-.near_by_places h2, 
-.photo_gallery h2, 
+.near_by_places h2,
+.photo_gallery h2,
 .room_dimensions h2.main_title{
 	color: #5738ad;
 	font-family: 'Montserrat';
 	font-size: 24px;
 	font-weight: bold;
 	text-align: center;
-	position: relative;	
+	position: relative;
 	margin-bottom: 70px;
 }
-.near_by_places h2::before, 
-.photo_gallery h2::before, 
+.near_by_places h2::before,
+.photo_gallery h2::before,
 .room_dimensions h2.main_title::before{
 	position: absolute;
 	background: #1fc055;
@@ -1035,7 +1034,7 @@ h2 {
 	padding: 0 0 15px 0;
 }
 .near_by_places ul li{
-	float: left;	
+	float: left;
 }
 .near_by_places ul li.left{
 	width: 70%;
@@ -1064,7 +1063,7 @@ h2 {
 	margin-top: 10px;
 	padding-right: 15px;
 }
-.near_by_places .near-by-place-map{		
+.near_by_places .near-by-place-map{
 	float: left;
 	height: 580px;
 }
@@ -1085,7 +1084,7 @@ h2 {
 .contact_our_agent h2.agent-title{
 	font-size: 26px;
 	position: relative;
-	margin-bottom: 15px;	
+	margin-bottom: 15px;
 	padding: 50px 0 15px 0;
 }
 .contact_our_agent h2.agent-title:before{
@@ -1095,7 +1094,7 @@ h2 {
 	left: 0;
 	width: 50px;
 	height: 2px;
-	content: '';	
+	content: '';
 }
 .contact_our_agent .agent-certificate{
 	font-family: 'Montserrat';
@@ -1122,7 +1121,7 @@ h2 {
 .contact_our_agent .agent_contact_form{
 	width: 100%;
 	float: left;
-	margin-top: 45px;	
+	margin-top: 45px;
 }
 .contact_our_agent .col-xs-6.col-sm-6.col-md-6{
 	padding: 0 15px 0 0;
@@ -1149,7 +1148,7 @@ h2 {
 	text-transform: uppercase;
 	font-size: 13px;
 	color: #ffffff;
-	padding: 15px 20px;	
+	padding: 15px 20px;
 	text-decoration: none;
 	float: right;
 	border: none;
@@ -1204,13 +1203,13 @@ h2 {
 	.contact_our_agent .agent_photo_area h2.first,
 	.contact_our_agent .agent_photo_area h2.second{
 		margin-left: 15px;
-	}	
+	}
 }
 @media screen and (max-width: 375px){
 	.contact_our_agent .agent_photo_area h2.first,
 	.contact_our_agent .agent_photo_area h2.second{
 		font-size: 75px;
-	}	
+	}
 	.contact_our_agent .agent_photo_area h2.second{
 		top: 60%;
 	}
@@ -1239,8 +1238,8 @@ h2 {
     height: 2px;
     left: 0;
     margin: auto;
-    position: absolute;    
-    width: 25px;	
+    position: absolute;
+    width: 25px;
 }
 .location_details .address_area p,
 .location_details .address_area a{
@@ -1259,7 +1258,7 @@ h2 {
 	text-transform: uppercase;
 	font-size: 13px;
 	color: #ffffff;
-	padding: 15px 20px;	
+	padding: 15px 20px;
 	text-decoration: none;
 	float: left;
 	transition: all 0.3s;
@@ -1293,14 +1292,14 @@ h2 {
 @media screen and (max-width: 360px) {
 	.location_details .address_area{
 		padding-left: 15px;
-	}	
+	}
 }
 /*
 	About Us Page
 */
 .inner-page-about-property {
 	width: 100%;
-	float: left;	
+	float: left;
 }
 .inner-page-about-property h1, .inner-page-features h1, .inner-page-features-villa h1, .inner-page-gallery-two-columns h1, .inner-page-gallery-three-columns h1, .inner_about_property h1, .inner-features-villa h1 {
 	text-transform: uppercase;
@@ -1557,8 +1556,8 @@ h2 {
 		height: auto
 	}
 }
-.amenities-marker p {	
-	font-size: 16px !important;	
+.amenities-marker p {
+	font-size: 16px !important;
 	margin-bottom: 12px !important
 }
 .amenities-marker img {
@@ -1692,7 +1691,7 @@ h2 {
 	}
 }
 p.room-dimension-detail-p,
-.room-dimension-detail p, 
+.room-dimension-detail p,
 .features li p {
 	color: #7e8c99;
 	font-family: 'Lato', sans-serif;
@@ -1835,7 +1834,7 @@ a.view_on_map_btn:hover {
 }
 @media screen and (max-width: 384px){
 	.inner-page-about-property .view_on_map_btn{
-		margin-bottom: 25px;		
+		margin-bottom: 25px;
 	}
 	.inner-page-about-property .schedule_visit_href_btn{
 		margin-left: 0;
@@ -1935,7 +1934,7 @@ a.view_on_map_btn:hover {
     -o-transform:scale(0);
     -ms-transform:scale(0);
     transform:scale(0);
-    border-radius:100%;	
+    border-radius:100%;
 }
 .photogalary li:hover .image_description,
 .inner-page-gallery-two-columns-dimension-detail li:hover .image_description,
@@ -1946,7 +1945,7 @@ a.view_on_map_btn:hover {
     -o-transform:scale(1);
     -ms-transform:scale(1);
     transform:scale(1);
-    border-radius:0;  
+    border-radius:0;
 }
 .photogalary .image_description p, .inner-page-gallery-two-columns-dimension-detail .image_description p, .inner-page-gallery-three-columns-dimension-detail .image_description p {
 	font-family: 'Montserrat', sans-serif;
@@ -2438,7 +2437,7 @@ inner-page-gallery-two-columns, .inner-page-gallery-three-columns {
 }
 .blog_comment_submit_btn {
 	height: 45px;
-	width: 165px;	
+	width: 165px;
 	color: #fff;
 	text-transform: uppercase;
 	background-color: rgb(31, 192, 85);
@@ -3196,7 +3195,7 @@ ul.inner-page-left-single-line li, ul.inner-page-right-single-line li {
 	}
 	.inner-faq-house-info {
 		padding: 20px;
-	}	
+	}
 }
 @media screen and (min-width: 992px) and (max-width: 1199px) {
 	#inner-faq-agent-info {
@@ -3411,7 +3410,7 @@ input[type=number] {
     height: auto;
     max-height: 850px;
     overflow: hidden;
-    width: 100%;    
+    width: 100%;
 }
 .nivo-caption {
 	background-color: rgba(0, 0, 0, 0) !important;
