@@ -40,13 +40,13 @@
                     <!-- Wrapper for slides -->
                     <div class="carousel-inner" role="listbox">
                         <div class="item active">
-                            <img src="images/slider1.jpg" alt="Slider1">
+                            <img src="images/slider01.jpg" alt="Slider1">
                         </div>
                         <div class="item">
-                            <img src="images/slider2.jpg" alt="Slider2">
+                            <img src="images/slider02.jpg" alt="Slider2">
                         </div>
                         <div class="item">
-                            <img src="images/slider3.jpg" alt="Slider3">
+                            <img src="images/slider03.jpg" alt="Slider3">
                         </div>
                     </div>
                 </div>
@@ -72,17 +72,22 @@
                                     <li>
                                             <a href="#gallery">Gallery</a>
                                     </li>
-                            <!---
+                                    <cfif roomdimensionsopen()>
                                     <li>
                                             <a href="#rooms">Rooms</a>
                                     </li>
-                            --->
+                                    </cfif>
+
                                     <li>
                                             <a href="#property">Property</a>
                                     </li>
+
+                                    <cfif nearbyplacesopen()>
                                     <li>
                                             <a href="#nearby">Nearyby</a>
                                     </li>
+                                    </cfif>
+
                                     <li><a href="mailto:tomavey@fgbc.org">Contact us</a></li>
                                     <li><a href="contact.html" class="schedule-visit-btn">SCHEDULE A VISIT</a></li>
                                 </ul>
@@ -98,7 +103,7 @@
                             <span class="second-line">Request an appointment...</span>
                             <form class="shedule-visit" name="contact_form" method="post" action="functions.php" id="agnet-contact-form">
                                 <input type="text" name="full_name" placeholder="Full Name" required/>
-                                <input type="tel" name="phone_number" placeholder="Phone Numebr" required/>
+                                <input type="tel" name="phone_number" placeholder="Phone Number" required/>
                                 <input type="email" name="email_address" placeholder="Email" required/>
                                 <textarea placeholder="Message" name="message" required></textarea>
                                 <input type="hidden" name="shedule_visit" value="shedule_visit"/>

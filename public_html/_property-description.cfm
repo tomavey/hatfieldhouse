@@ -13,7 +13,7 @@
                         <div class="property-amenities">
                             <div class="col-xs-12 col-sm-6 col-md-6">
                                 <div class="proeprty-amenities-left">
-                                    <img src="images/amenities.jpg" alt="Amenities" />
+                                    <img src="images/amenities02.jpg" alt="Amenities" />
                                 </div>
                             </div>
                             <div class="col-xs-12 col-sm-6 col-md-6">
@@ -25,7 +25,7 @@
                                             <div class="item active">
                                                 <ul class="amenities-list">
                                                     <li>
-                                                        <label>Garden </label>
+                                                        <label>Shed</label>
                                                         <span>Yes</span>
                                                     </li>
                                                     <li>
@@ -33,19 +33,48 @@
                                                         <span>3</span>
                                                     </li>
                                                     <li>
-                                                        <label>Bedroom </label>
-                                                        <span>3</span>
+                                                        <label>Bedrooms </label>
+                                                        <span>6</span>
                                                     </li>
                                                     <li>
-                                                        <label>Bathroom </label>
-                                                        <span>3</span>
+                                                        <label>Bathrooms </label>
+                                                        <span>4.5</span>
                                                     </li>
                                                     <li>
-                                                        <label>Swimming Pool </label>
+                                                        <label>Off Street Parking </label>
                                                         <span>Yes</span>
                                                     </li>
                                                     <li>
                                                         <label>Garage </label>
+                                                        <span>No</span>
+                                                    </li>
+                                                </ul>
+                                            </div>
+
+                                            <div class="item">
+                                                <ul class="amenities-list">
+                                                    <li>
+                                                        <label>Workshop </label>
+                                                        <span>Yes</span>
+                                                    </li>
+                                                    <li>
+                                                        <label>Fireplace </label>
+                                                        <span>Gas</span>
+                                                    </li>
+                                                    <li>
+                                                        <label>Heat </label>
+                                                        <span>Gas</span>
+                                                    </li>
+                                                    <li>
+                                                        <label>Hardwood Floors</label>
+                                                        <span>Yes</span>
+                                                    </li>
+                                                    <li>
+                                                        <label>Stained Glass Windows </label>
+                                                        <span>Yes</span>
+                                                    </li>
+                                                    <li>
+                                                        <label>Front Porch </label>
                                                         <span>Yes</span>
                                                     </li>
                                                 </ul>
@@ -54,56 +83,27 @@
                                             <div class="item">
                                                 <ul class="amenities-list">
                                                     <li>
-                                                        <label>Garden </label>
+                                                        <label>Places to walk </label>
                                                         <span>Yes</span>
                                                     </li>
                                                     <li>
-                                                        <label>No. of floors </label>
-                                                        <span>2</span>
-                                                    </li>
-                                                    <li>
-                                                        <label>Bedroom </label>
-                                                        <span>3</span>
-                                                    </li>
-                                                    <li>
-                                                        <label>Bathroom </label>
-                                                        <span>3</span>
-                                                    </li>
-                                                    <li>
-                                                        <label>Swimming Pool </label>
+                                                        <label>Near shopping </label>
                                                         <span>Yes</span>
                                                     </li>
                                                     <li>
-                                                        <label>Garage </label>
-                                                        <span>Yes</span>
-                                                    </li>
-                                                </ul>
-                                            </div>
-
-                                            <div class="item">
-                                                <ul class="amenities-list">
-                                                    <li>
-                                                        <label>Garden </label>
+                                                        <label>Near Lake </label>
                                                         <span>Yes</span>
                                                     </li>
                                                     <li>
-                                                        <label>No. of floors </label>
-                                                        <span>2</span>
-                                                    </li>
-                                                    <li>
-                                                        <label>Bedroom </label>
-                                                        <span>3</span>
-                                                    </li>
-                                                    <li>
-                                                        <label>Bathroom </label>
-                                                        <span>3</span>
-                                                    </li>
-                                                    <li>
-                                                        <label>Swimming Pool </label>
+                                                        <label>Historic </label>
                                                         <span>Yes</span>
                                                     </li>
                                                     <li>
-                                                        <label>Garage </label>
+                                                        <label>Easy care lawn </label>
+                                                        <span>Yes</span>
+                                                    </li>
+                                                    <li>
+                                                        <label>Open feel </label>
                                                         <span>Yes</span>
                                                     </li>
                                                 </ul>
@@ -112,27 +112,27 @@
                                             <div class="item">
                                                 <ul class="amenities-list">
                                                     <li>
-                                                        <label>Garden </label>
+                                                        <label>3rd Floor Suite </label>
                                                         <span>Yes</span>
                                                     </li>
                                                     <li>
-                                                        <label>No. of floors </label>
-                                                        <span>2</span>
-                                                    </li>
-                                                    <li>
-                                                        <label>Bedroom </label>
-                                                        <span>3</span>
-                                                    </li>
-                                                    <li>
-                                                        <label>Bathroom </label>
-                                                        <span>3</span>
-                                                    </li>
-                                                    <li>
-                                                        <label>Swimming Pool </label>
+                                                        <label>Small Town Feel </label>
                                                         <span>Yes</span>
                                                     </li>
                                                     <li>
-                                                        <label>Garage </label>
+                                                        <label>Walk-in closet </label>
+                                                        <span>Yes</span>
+                                                    </li>
+                                                    <li>
+                                                        <label>Sunroom </label>
+                                                        <span>Yes</span>
+                                                    </li>
+                                                    <li>
+                                                        <label>Secret Staircase </label>
+                                                        <span>Yes</span>
+                                                    </li>
+                                                    <li>
+                                                        <label>Flower Garden </label>
                                                         <span>Yes</span>
                                                     </li>
                                                 </ul>
