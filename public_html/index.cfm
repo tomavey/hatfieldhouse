@@ -21,6 +21,10 @@
 
 	<cfinclude template="_modal.cfm">
 
+	<cfif propertydescriptionmoreopen()>
+	<cfinclude template="_property-description-more.cfm">
+	</cfif>
+
 	<cfif nearbyplacesopen()>
 	<cfinclude template="_nearby_places.cfm">
 	</cfif>

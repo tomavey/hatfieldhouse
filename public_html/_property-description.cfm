@@ -5,7 +5,7 @@
                         <h3 class="section-title">Property Description</h3>
                         <p class="sub-title">The Hatfield House is a unique historic home in beautiful Winona Lake, Indiana</p>
                         <p>
-                            This spacious home easily connects to Winona Lake park and the Village at Winona. The town full of history and charm sitting along of shores of the lake by the same name. <a href="http://www.infishfinder.com/winona-lake-5590-location.html">At 562 acres, Winona Lake is rated as one of the better bass fisheries in northern Indiana.</a> The Hatfield House is in the registered historic district of Winona Lake, qualifying it for many state tax advantages.
+                            This spacious home easily connects to Winona Lake park and the Village at Winona. The town is full of history and charm and sits along of shores of Winona Lake. <a href="http://www.infishfinder.com/winona-lake-5590-location.html">At 562 acres, Winona Lake is rated as one of the better bass fisheries in northern Indiana.</a> The Hatfield House is in the registered historic district of Winona Lake, qualifying it for many state tax advantages.
                         </p>
                         <a href="https://www.google.com/maps/place/100+4th+St,+Winona+Lake,+IN+46590/@41.2288629,-85.8215247,17z/data=!3m1!4b1!4m5!3m4!1s0x88169dbceaffa5bb:0x646e50565f8553a3!8m2!3d41.2288629!4d-85.819336" class="view-on-map" target="_new">View On Map</a>
                     </div>

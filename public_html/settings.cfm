@@ -1,20 +1,48 @@
 <cfscript>
 
 public function roomdimensionsopen(){
-    return false;
+    if (isDefined("url.showall")){
+        return true;
+        }
+    else {
+        return false;
+        };
 }
 
 public function nearbyplacesopen(){
-    return false;
+    if (isDefined("url.showall")){
+        return true;
+        }
+    else {
+        return false;
+        };
 }
 
 public function contactagentopen(){
-    return false;
+    if (isDefined("url.showall")){
+        return true;
+        }
+    else {
+        return false;
+        };
 }
 
 public function locationdetailsopen(){
-    return false;
+    if (isDefined("url.showall")){
+        return true;
+        }
+    else {
+        return false;
+        };
 }
 
+public function propertydescriptionmoreopen(){
+    if (isDefined("url.showall")){
+        return true;
+        }
+    else {
+        return true;
+        };
+}
 
 </cfscript>
