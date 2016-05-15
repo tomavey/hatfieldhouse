@@ -14,12 +14,12 @@ if( isset( $_POST['email_address'] ) && isset( $_POST['shedule_visit'] ) ){
 		if( $send ){
 			$send = '<div class="alert alert-success">
 				<a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
-				<strong>Success!</strong> Your message successfully sent to agent!
+				<strong>Success!</strong> Your message successfully sent!
 			</div>';
 		} else {
 			$send = '<div class="alert alert-danger">
 				<a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
-				<strong>Fail!</strong> Sorry,Your message was not send to agent,please try again!
+				<strong>Fail!</strong> Sorry,Your message was not sent, please try again!
 			</div>';
 		}
 	}
