@@ -53,16 +53,16 @@
                             <div class="icon">
                                 <img src="images/gallary_image_hover_icon.png" alt="+">
                             </div>
-                            <p class="text-center">Dining Room</p>
+                            <p class="text-center">Dining Room (15x18)</p>
                         </div>
                     </div>
                     <div class="gallery_image col-xs-12 col-sm-6 col-md-4">
-                        <img src="images/gallery_image07.jpg" alt="Hardwood Floors in Living Room" class="img-responsive">
+                        <img src="images/gallery_image07.jpg" alt="Living Room" class="img-responsive">
                         <div class="image_description text-center" data-toggle="modal" data-target="#image_lightbox">
                             <div class="icon">
                                 <img src="images/gallary_image_hover_icon.png" alt="+">
                             </div>
-                            <p class="text-center">Hardwood Floors in Living Room</p>
+                            <p class="text-center">Living Room (22x22)</p>
                         </div>
                     </div>
                     <div class="gallery_image col-xs-12 col-sm-6 col-md-4">
@@ -111,7 +111,7 @@
                         </div>
                     </div>
                     <div class="gallery_image col-xs-12 col-sm-6 col-md-4">
-                        <img src="images/gallery_image12.jpg" alt="West Bedroom (14x9)" class="img-responsive">
+                        <img src="images/gallery_image13.jpg" alt="West Bedroom (14x9)" class="img-responsive">
                         <div class="image_description text-center" data-toggle="modal" data-target="#image_lightbox">
                             <div class="icon">
                                 <img src="images/gallary_image_hover_icon.png" alt="+">
