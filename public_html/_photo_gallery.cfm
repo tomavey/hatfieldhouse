@@ -26,7 +26,7 @@
                             <div class="icon">
                                 <img src="images/gallary_image_hover_icon.png" alt="+">
                             </div>
-                            <p class="text-center">Front Bedroom</p>
+                            <p class="text-center">Front Bedroom (18x11)</p>
                         </div>
                     </div>
                     <div class="gallery_image col-xs-12 col-sm-6 col-md-4">
@@ -35,7 +35,7 @@
                             <div class="icon">
                                 <img src="images/gallary_image_hover_icon.png" alt="+">
                             </div>
-                            <p class="text-center">Round Bedroom</p>
+                            <p class="text-center">Round Bedroom (16x13)</p>
                         </div>
                     </div>
                     <div class="gallery_image col-xs-12 col-sm-6 col-md-4">
@@ -93,12 +93,30 @@
                         </div>
                     </div>
                     <div class="gallery_image col-xs-12 col-sm-6 col-md-4">
-                        <img src="images/gallery_image11.jpg" alt="East side of the house" class="img-responsive">
+                        <img src="images/gallery_image11.jpg" alt="Master Bedroom (14x15)" class="img-responsive">
+                        <div class="image_description text-center" data-toggle="modal" data-target="#image_lightbox">
+                            <div class="icon">
+                                <img src="images/gallary_image_hover_icon.png" alt="+">
+                            </div>
+                            <p class="text-center">Master Bedroom (14x15)</p>
+                        </div>
+                    </div>
+                    <div class="gallery_image col-xs-12 col-sm-6 col-md-4">
+                        <img src="images/gallery_image12.jpg" alt="East side of the house" class="img-responsive">
                         <div class="image_description text-center" data-toggle="modal" data-target="#image_lightbox">
                             <div class="icon">
                                 <img src="images/gallary_image_hover_icon.png" alt="+">
                             </div>
                             <p class="text-center">East side of the house</p>
+                        </div>
+                    </div>
+                    <div class="gallery_image col-xs-12 col-sm-6 col-md-4">
+                        <img src="images/gallery_image12.jpg" alt="West Bedroom (14x9)" class="img-responsive">
+                        <div class="image_description text-center" data-toggle="modal" data-target="#image_lightbox">
+                            <div class="icon">
+                                <img src="images/gallary_image_hover_icon.png" alt="+">
+                            </div>
+                            <p class="text-center">West Bedroom (14x9)</p>
                         </div>
                     </div>
                 </div>
