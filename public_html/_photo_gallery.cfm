@@ -71,7 +71,7 @@
                             <div class="icon">
                                 <img src="images/gallary_image_hover_icon.png" alt="+">
                             </div>
-                            <p class="text-center">Pocket Doors into Family Room</p>
+                            <p class="text-center">Pocket Doors into the Family Room (22x11)</p>
                         </div>
                     </div>
                     <div class="gallery_image col-xs-12 col-sm-6 col-md-4">
@@ -117,6 +117,15 @@
                                 <img src="images/gallary_image_hover_icon.png" alt="+">
                             </div>
                             <p class="text-center">West Bedroom (14x9)</p>
+                        </div>
+                    </div>
+                    <div class="gallery_image col-xs-12 col-sm-6 col-md-4">
+                        <img src="images/gallery_image15.jpg" alt="Bedroom or Walk-in Closet (13x10)" class="img-responsive">
+                        <div class="image_description text-center" data-toggle="modal" data-target="#image_lightbox">
+                            <div class="icon">
+                                <img src="images/gallary_image_hover_icon.png" alt="+">
+                            </div>
+                            <p class="text-center">Bedroom or Walk-in Closet (13x10)</p>
                         </div>
                     </div>
                 </div>
