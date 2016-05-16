@@ -13,7 +13,7 @@
                          <p>
                          Located adjacent to the Winona Lake Village Park, with sidewalk paths across the street, leading to beautiful Winona Lake Town.  Take a stroll or bike and encountering the Hillside Amphitheater (with many summer weddings and outside concerts), on by the Compass Circle in the park and onto the wonderful walking/ biking trails on the newly expanded Greenway.  Continue along the lakeside, the island, through the Village at Winona stores and restaurants (coffee, ice cream, drinks, candy store), the Post Office, alongside the canal and the boat slips (that can be rented seasonally for a reasonable price-$250 season), by the Limitless playground and splash pad, tennis and basketball courts, by the Town Hall and offices, the Seniors Center and Recreation Department.  In the winter, walk across the street to enjoy the sledding on the hill.  The Hatfield is 2 blocks from Grace College and Seminary, and 3 short blocks to Jefferson Elementary School.  Within 3 blocks there are 3 churches, Presbyterian, Free Methodist and Grace Brethren Church, more churches just a mile or so away.  Within 1 mile or so, there is a Walgreens, Banks, Gas stations, grocery stores, shopping centers, fast food restaurants and a movie theater.  There is something for all ages to enjoy in Winona Lake.  This is the kind of place everyone wants to vacation to and would dream about living. Winona is THE PLACE TO BE in Northern Indiana.  It’s hard to find a home in Winona, it is the desirable place to be. ESPECIALLY WHEN YOU HAVE AN AMAZING AND UNIQUE HOME LIKE THE HATFIELD.
                         </p>
-                        <ul>
+                        <ul class="list">
                         <li>Beautiful stained glass windows throughout the home
                         <ul>
                         <li>Large stained glass located on the Landing between 1st and 2nd floor</li>
@@ -56,7 +56,7 @@
 <li>Home is located on 2 Winona Lake lots</li>
 <li>Driveway that can accommodate 2 + vehicles (enough land to build a garage)</li>
 <li>Shed with collapsible potting table in the back</li>
-<li>Third (3rd) floor can be a separate suite. Living room area, 2 separate closets, large room with views of the park and lake, top of turret for possible 7th bedroom or extra space.  A full bathroom with a CLAW FOOT tub</li>
+<li>Third (3rd) floor can be a separate suite. Living room area, 2 separate closets, large room with views of the park and lake, top of turret for possible 7th bedroom or extra space.  A full bathroom with a CLAWFOOT tub</li>
 <li>Extra walk out attic storage on 3rd floor/ adjacent to the 3rd floor suite</li>
 <li>Heating with radiators, via natural gas / steam  (a wonderful warm even heat) Main floor programmable thermostat, individual rooms can be shut off. Yearly serviced, always maintained to be in good working condition.</li>
 <li>Ceiling fans; Bedroom ceiling fans in 2 bedrooms , 1 in kitchen  </li>

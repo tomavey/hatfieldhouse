@@ -3465,3 +3465,7 @@ input[type=number] {
 	width: 100%;
 	padding-top: 15% !important;
 }
+
+.list li {
+	color: #7e8c99;
+}
