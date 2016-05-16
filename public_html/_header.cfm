@@ -67,7 +67,7 @@
                                         <a href="index.cfm">Home</a>
                                     </li>
                                     <li>
-                                            <a href="#about">About</a>
+                                            <a href="#price">Price</a>
                                     </li>
                                     <li>
                                             <a href="#gallery">Gallery</a>
@@ -80,6 +80,10 @@
 
                                     <li>
                                             <a href="#property">Property</a>
+                                    </li>
+
+                                    <li>
+                                            <a href="#about">About</a>
                                     </li>
 
                                     <cfif nearbyplacesopen()>

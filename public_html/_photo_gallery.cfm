@@ -74,6 +74,33 @@
                             <p class="text-center">Pocket Doors into Family Room</p>
                         </div>
                     </div>
+                    <div class="gallery_image col-xs-12 col-sm-6 col-md-4">
+                        <img src="images/gallery_image09.jpg" alt="Walk-up from the park" class="img-responsive">
+                        <div class="image_description text-center" data-toggle="modal" data-target="#image_lightbox">
+                            <div class="icon">
+                                <img src="images/gallary_image_hover_icon.png" alt="+">
+                            </div>
+                            <p class="text-center">Walk-up from the park</p>
+                        </div>
+                    </div>
+                    <div class="gallery_image col-xs-12 col-sm-6 col-md-4">
+                        <img src="images/gallery_image10.jpg" alt="Clawfoot tub" class="img-responsive">
+                        <div class="image_description text-center" data-toggle="modal" data-target="#image_lightbox">
+                            <div class="icon">
+                                <img src="images/gallary_image_hover_icon.png" alt="+">
+                            </div>
+                            <p class="text-center">Clawfoot tub</p>
+                        </div>
+                    </div>
+                    <div class="gallery_image col-xs-12 col-sm-6 col-md-4">
+                        <img src="images/gallery_image11.jpg" alt="East side of the house" class="img-responsive">
+                        <div class="image_description text-center" data-toggle="modal" data-target="#image_lightbox">
+                            <div class="icon">
+                                <img src="images/gallary_image_hover_icon.png" alt="+">
+                            </div>
+                            <p class="text-center">East side of the house</p>
+                        </div>
+                    </div>
                 </div>
             </div>
         </section>

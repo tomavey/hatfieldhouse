@@ -1,4 +1,4 @@
-        <div class="about-property-outer"><a name="about"></a>
+        <div class="about-property-outer"><a name="price"></a>
             <div class="container">
                 <div class="row">
                     <div class="about-property-info-outer col-xs-12 col-sm-5 col-md-4">

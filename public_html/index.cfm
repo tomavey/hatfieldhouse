@@ -8,7 +8,7 @@
 
 	<cfinclude template="_header.cfm">
 
-	<cfinclude template="_about.cfm">
+	<cfinclude template="_price.cfm">
 
 	<cfinclude template="_property-description.cfm">
 
