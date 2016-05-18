@@ -352,7 +352,7 @@
 			"file": "_photo_gallery.cfm",
 			"settings":
 			{
-				"buffer_size": 8124,
+				"buffer_size": 8773,
 				"line_ending": "Windows"
 			}
 		},
@@ -956,7 +956,9 @@
 								"bh_double_quote_close",
 								"bh_double_quote_content"
 							],
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 666.0,
@@ -1060,15 +1062,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 8124,
+						"buffer_size": 8773,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								8124,
-								8124
+								4253,
+								4218
 							]
 						],
 						"settings":
@@ -1137,7 +1139,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2569.0,
+						"translation.y": 1723.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,

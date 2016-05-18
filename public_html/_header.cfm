@@ -93,7 +93,6 @@
                                     </cfif>
 
                                     <li><a href="mailto:tomavey@fgbc.org">Contact us</a></li>
-                                    <li><a href="contact.html" class="schedule-visit-btn">SCHEDULE A VISIT</a></li>
                                 </ul>
                             </div>
                         </div>
