@@ -21,6 +21,15 @@
                         </div>
                     </div>
                     <div class="gallery_image col-xs-12 col-sm-6 col-md-4">
+                        <img src="images/gallery_image05.jpg" alt="Stained Glass Window" class="img-responsive">
+                        <div class="image_description text-center" data-toggle="modal" data-target="#image_lightbox">
+                            <div class="icon">
+                                <img src="images/gallary_image_hover_icon.png" alt="+">
+                            </div>
+                            <p class="text-center">Stained Glass Window</p>
+                        </div>
+                    </div>
+                    <div class="gallery_image col-xs-12 col-sm-6 col-md-4">
                         <img src="images/gallery_image03.jpg" alt="Front Bedroom" class="img-responsive">
                         <div class="image_description text-center" data-toggle="modal" data-target="#image_lightbox">
                             <div class="icon">
@@ -36,15 +45,6 @@
                                 <img src="images/gallary_image_hover_icon.png" alt="+">
                             </div>
                             <p class="text-center">Round Bedroom (16x13)</p>
-                        </div>
-                    </div>
-                    <div class="gallery_image col-xs-12 col-sm-6 col-md-4">
-                        <img src="images/gallery_image05.jpg" alt="Stained Glass Window" class="img-responsive">
-                        <div class="image_description text-center" data-toggle="modal" data-target="#image_lightbox">
-                            <div class="icon">
-                                <img src="images/gallary_image_hover_icon.png" alt="+">
-                            </div>
-                            <p class="text-center">Stained Glass Window</p>
                         </div>
                     </div>
                     <div class="gallery_image col-xs-12 col-sm-6 col-md-4">
@@ -197,6 +197,17 @@
                     </div>
                     <cfset image = "22">
                     <cfset description = "3rd Floor Bedroom (15x13)">
+                    <div class="gallery_image col-xs-12 col-sm-6 col-md-4">
+                        <img src="images/gallery_image#image#.jpg" alt="#description#" class="img-responsive">
+                        <div class="image_description text-center" data-toggle="modal" data-target="##image_lightbox">
+                            <div class="icon">
+                                <img src="images/gallary_image_hover_icon.png" alt="+">
+                            </div>
+                            <p class="text-center">#description#</p>
+                        </div>
+                    </div>
+                    <cfset image = "23">
+                    <cfset description = "Living Room (22x22)">
                     <div class="gallery_image col-xs-12 col-sm-6 col-md-4">
                         <img src="images/gallery_image#image#.jpg" alt="#description#" class="img-responsive">
                         <div class="image_description text-center" data-toggle="modal" data-target="##image_lightbox">
