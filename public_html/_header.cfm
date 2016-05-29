@@ -14,7 +14,6 @@
                                 <span class="normal-title">Winona Lake, IN </span>
                             </div>
                         </div>
-                        <!---
                         <div class="col-xs-12 col-sm-3 col-md-2">
                             <div class="header-call-us-now">
                                 <span class="image-icons">
@@ -24,7 +23,6 @@
                                 <span class="bold-title">574-527-6061</span>
                             </div>
                         </div>
-                        --->
                     </div>
                 </div>
             </div>
