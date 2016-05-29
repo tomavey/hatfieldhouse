@@ -5,7 +5,7 @@
                         <div class="header_logo col-xs-12 col-sm-5 col-md-7">
                             <a href="index.cfm"><img src="images/logo4.png" alt="Logo"></a>
                         </div>
-                        <div class="col-xs-12 col-sm-7 col-md-3">
+                        <div class="col-xs-12 col-sm-4 col-md-3">
                             <div class="header-address">
                                 <span class="address_icon image-icons">
                                     <img src="images/address.png" alt="address icon">
