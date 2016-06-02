@@ -3,7 +3,7 @@
                 <div class="row">
                     <div class="about-property-info-outer col-xs-12 col-sm-5 col-md-4">
                         <h2>Hatfield House</h2>
-                        <span class="price">$340,000</span>
+                        <span class="price">$349,900</span>
                         <span class="property-status">ON SALE</span>
                     </div>
                     <div class="col-xs-12 col-sm-7 col-md-8">
