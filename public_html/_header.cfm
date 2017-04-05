@@ -103,12 +103,12 @@
                             <span class="first-line">Qualified buyers:</span>
                             <span class="second-line">Request an appointment...</span>
                             <form class="shedule-visit" name="contact_form" method="post" action="functions.php" id="agnet-contact-form">
-                                <input type="text" name="full_name" placeholder="Full Name" required/>
-                                <input type="tel" name="phone_number" placeholder="Phone Number" required/>
-                                <input type="email" name="email_address" placeholder="Email" required/>
-                                <textarea placeholder="Message" name="message" required></textarea>
-                                <input type="hidden" name="shedule_visit" value="shedule_visit"/>
-                                <input type="submit" name="sendmessage" class="send-message" value="SUBMIT NOW" />
+                                <input type="text" name="full_name"  disabled placeholder="Full Name" required/>
+                                <input type="tel" name="phone_number"  disabled placeholder="Phone Number" required/>
+                                <input type="email" name="email_address"  disabled placeholder="Email" required/>
+                                <textarea placeholder="Message"  disabled name="message" required></textarea>
+                                <input type="hidden"  disabled name="shedule_visit" value="shedule_visit"/>
+                                <input type="submit" disabled name="sendmessage" class="send-message" disvalue="SUBMIT NOW" />
                             </form>
                         </div>
                     </div>
